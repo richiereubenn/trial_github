@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colorScheme.background
                 ) {
                     Greeting("Rafi Pea :)")
+                    Greeting("Rafi Jago :)")
                 }
             }
         }
